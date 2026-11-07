@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.IFSE" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/ifse_blue_light</item>
+        <item name="colorPrimaryDark">@color/ifse_blue</item>
+        <item name="android:statusBarColor">@color/ifse_blue</item>
+        <item name="android:navigationBarColor">@color/ifse_blue</item>
+        <item name="android:windowBackground">@drawable/splash</item>
+    </style>
+</resources>
